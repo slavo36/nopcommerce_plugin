@@ -1,0 +1,11 @@
+{
+  "Group": "Payment methods",
+  "FriendlyName": "CardPay",
+  "SystemName": "Payments.CardPay",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "slavo36",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.CardPay.dll",
+  "Description": "This plugin allows paying with CardPay"
+}
